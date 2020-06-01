@@ -122,22 +122,3 @@ $(function () {
 
 })
 
-// canvas -javascript for demo
-    // var canvas = document.getElementById("paint");
-    // var context = canvas.getContext("2d");
-    // Create a path 
-    // context.beginPath();
-    // Set the path width 
-    // context.lineWidth = "10";
-    // Set the path color 
-    // context.strokeStyle = "green";
-    // linecap(round,butt,square)
-    // context.lineCap = "round";
-    // set linejoin(bevel,round,miter)
-    // context.lineJoin = "round";
-    // context.moveTo(100, 250);  ->  position the context point
-    // new position
-    // context.lineTo(150, 50);
-    // context.lineTo(250, 250);
-    // make line visible
-    // context.stroke();
